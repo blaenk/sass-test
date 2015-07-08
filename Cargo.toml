@@ -1,0 +1,8 @@
+[package]
+name = "sass-test"
+version = "0.1.0"
+authors = ["Jorge Israel Peña <jorge.israel.p@gmail.com>"]
+
+[dependencies]
+time = "*"
+sass-rs = "*"
